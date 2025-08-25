@@ -1,1 +1,16 @@
+Se utilizó LanguageTool como apoyo para detectar errores ortográficos y gramaticales en el archivo
+Estos son solo algunos de los errores encontrados con sus correcciones 
+Ejemplo 1
+•	Antes: “Gracias por komprar la Silla Corsair T3 RUSH”
+•	Después: “Gracias por comprar la Silla Corsair T3 RUSH”
+•	Justificación: Se aceptó la corrección porque era un error evidente en la ortografía que podía afectar la comprensión.
+Ejemplo 2
+•	Antes: “Limpia la tela kon un paño umedo.”
+•	Después: “Limpia la tela con un paño húmedo.”
+•	Justificación: La palabra “umedo” no existe y se decidió aceptar la sugerencia para mejorar la claridad del manual.
+Ejemplo 3
+•	Antes: “Koloka el respaldo sobre el asiento y ajusta kon los tornillos.”
+•	Después: “Coloca el respaldo sobre el asiento y ajusta con los tornillos.”
+•	Justificación: Se corrigió porque la escritura original podía confundir al lector, y en un manual de usuario es importante la claridad.
+Algunas de las recomendaciones de LanguageTool no se aceptaron, ya que el manual tenía ciertos errores intencionales como parte del ejercicio. En estos casos, se mantuvo la redacción original porque cambiarla alteraba el propósito del texto o no afectaba de forma significativa la comprensión.
 
